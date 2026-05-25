@@ -1,22 +1,18 @@
 ﻿  fun.c
-D:\GitCode\otherPersonCode\studentManagement\studentManagement\fun.c(319,8): warning C4101: “scoret”: 未引用的局部变量
-D:\GitCode\otherPersonCode\studentManagement\studentManagement\fun.c(510,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
-      D:\GitCode\otherPersonCode\studentManagement\studentManagement\fun.c(510,9):
+C:\Users\CC\source\repos\student_management_system\studentManagement\fun.c(319,8): warning C4101: “scoret”: 未引用的局部变量
+C:\Users\CC\source\repos\student_management_system\studentManagement\fun.c(510,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+      C:\Users\CC\source\repos\student_management_system\studentManagement\fun.c(510,9):
       占位符和其参数预计 1 可变参数，但提供的却是 0 参数
-      D:\GitCode\otherPersonCode\studentManagement\studentManagement\fun.c(510,9):
+      C:\Users\CC\source\repos\student_management_system\studentManagement\fun.c(510,9):
       缺失的可变参数 1 为格式字符串“%8d”所需
   
-D:\GitCode\otherPersonCode\studentManagement\studentManagement\fun.c(541,20): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
-D:\GitCode\otherPersonCode\studentManagement\studentManagement\fun.c(723,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
-D:\GitCode\otherPersonCode\studentManagement\studentManagement\fun.c(723,10): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "char *" 的参数 1 冲突
-D:\GitCode\otherPersonCode\studentManagement\studentManagement\fun.c(841,11): warning C4473: “printf”: 没有为格式字符串传递足够的参数
-      D:\GitCode\otherPersonCode\studentManagement\studentManagement\fun.c(841,11):
+C:\Users\CC\source\repos\student_management_system\studentManagement\fun.c(542,20): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+C:\Users\CC\source\repos\student_management_system\studentManagement\fun.c(724,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+C:\Users\CC\source\repos\student_management_system\studentManagement\fun.c(724,10): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "char *" 的参数 1 冲突
+C:\Users\CC\source\repos\student_management_system\studentManagement\fun.c(842,11): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+      C:\Users\CC\source\repos\student_management_system\studentManagement\fun.c(842,11):
       占位符和其参数预计 6 可变参数，但提供的却是 5 参数
-      D:\GitCode\otherPersonCode\studentManagement\studentManagement\fun.c(841,11):
+      C:\Users\CC\source\repos\student_management_system\studentManagement\fun.c(842,11):
       缺失的可变参数 6 为格式字符串“%-6s”所需
   
-  main.c
-D:\GitCode\otherPersonCode\studentManagement\studentManagement\main.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-D:\GitCode\otherPersonCode\studentManagement\studentManagement\main.c(20,12): warning C4101: “newuse”: 未引用的局部变量
-  正在生成代码...
-  Project1.vcxproj -> D:\GitCode\otherPersonCode\studentManagement\studentManagement\x64\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\CC\source\repos\student_management_system\studentManagement\x64\Debug\Project1.exe

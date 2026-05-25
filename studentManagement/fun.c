@@ -1,4 +1,4 @@
-#include "myheader.h"
+#include "fun.h"
 void printgoback()
 {
 	printf("按任意键返回\n");
@@ -538,6 +538,7 @@ int showUserNodeName(userlist head, char* name)
 //显示个人信息
 void showOneUser(userlist login, int num)
 {
+	if (login == NULL) return;
 	if (num <= 0) num == 1;
 	if (login->data.permission == 0)
 	{

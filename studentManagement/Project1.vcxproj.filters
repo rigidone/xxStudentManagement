@@ -34,7 +34,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="myheader.h">
+    <ClInclude Include="fun.h">
       <Filter>资源文件</Filter>
     </ClInclude>
   </ItemGroup>
