@@ -4,6 +4,8 @@ int selectFun = 0;
 int main()
 {
 
+	printf("ä½ å¥½!!!\n");
+	return 0;
 	int id = 0, idt = -1000,permiss=-1;
 	char str[100];
 	headList headlist = headListCreate();
@@ -61,7 +63,7 @@ int main()
 			userEntry(headlist, 1);
 			break;
 		case 108:
-			printf("ÇëÊäÈëÄãÒªÉ¾³ı½ÌÊ¦µÄID:");
+			printf("è¯·è¾“å…¥ä½ è¦åˆ é™¤æ•™å¸ˆçš„ID:");
 			fgets(str, 100, stdin);
 			if (str[0] != '\n')
 			{
@@ -82,7 +84,7 @@ int main()
 			userEntry(headlist, 2);
 			break;
 		case 208:
-			printf("ÇëÊäÈëÄãÒªÉ¾³ıÑ§ÉúµÄID:");
+			printf("è¯·è¾“å…¥ä½ è¦åˆ é™¤å­¦ç”Ÿçš„ID:");
 			fgets(str, 100, stdin);
 			if (str[0] != '\n')
 			{
@@ -96,7 +98,7 @@ int main()
 			changeUserData(headlist, 2);
 			break;
 		case 210:
-			printf("ÇëÊäÈëÄãÒª²éÑ¯Ñ§ÉúµÄID:");
+			printf("è¯·è¾“å…¥ä½ è¦æŸ¥è¯¢å­¦ç”Ÿçš„ID:");
 			fgets(str, 100, stdin);
 			if (str[0] != '\n') sscanf(str, "%d", &id);
 			else
@@ -104,12 +106,12 @@ int main()
 			printgoback();
 			break;
 		case 211:
-			printf("°´Ñ§ºÅ´ÓµÍµ½¸ß²é¿´ËùÓĞÑ§ÉúĞÅÏ¢ÈçÏÂ:\n");
+			printf("æŒ‰å­¦å·ä»ä½åˆ°é«˜æŸ¥çœ‹æ‰€æœ‰å­¦ç”Ÿä¿¡æ¯å¦‚ä¸‹:\n");
 			userlistbubble(headlist->student, 0);
 			showUserList(headlist->student, 0, userListLen(headlist->student));
 			break;
 		case 212:
-			printf("°´°´×Ü·Ö´Ó¸ßµ½µÍ²é¿´ËùÓĞÑ§ÉúĞÅÏ¢ÈçÏÂ:\n");
+			printf("æŒ‰æŒ‰æ€»åˆ†ä»é«˜åˆ°ä½æŸ¥çœ‹æ‰€æœ‰å­¦ç”Ÿä¿¡æ¯å¦‚ä¸‹:\n");
 			userlistbubble(headlist->student, 1);
 			showUserList(headlist->student, 0, userListLen(headlist->student));
 			break;
