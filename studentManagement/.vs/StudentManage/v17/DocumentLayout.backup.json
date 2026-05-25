@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\CC\\source\\repos\\student_management_system\\Project1\\",
+  "WorkspaceRootPath": "D:\\GitCode\\otherPersonCode\\studentManagement\\studentManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F227F1B3-379A-4C0C-9B7E-8191140652B2}|Project1.vcxproj|C:\\Users\\CC\\source\\repos\\student_management_system\\Project1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F227F1B3-379A-4C0C-9B7E-8191140652B2}|Project1.vcxproj|D:\\GitCode\\otherPersonCode\\studentManagement\\studentManagement\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F227F1B3-379A-4C0C-9B7E-8191140652B2}|Project1.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F227F1B3-379A-4C0C-9B7E-8191140652B2}|Project1.vcxproj|C:\\Users\\CC\\source\\repos\\student_management_system\\Project1\\myheader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F227F1B3-379A-4C0C-9B7E-8191140652B2}|Project1.vcxproj|D:\\GitCode\\otherPersonCode\\studentManagement\\studentManagement\\myheader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F227F1B3-379A-4C0C-9B7E-8191140652B2}|Project1.vcxproj|solutionrelative:myheader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F227F1B3-379A-4C0C-9B7E-8191140652B2}|Project1.vcxproj|C:\\Users\\CC\\source\\repos\\student_management_system\\Project1\\fun.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F227F1B3-379A-4C0C-9B7E-8191140652B2}|Project1.vcxproj|D:\\GitCode\\otherPersonCode\\studentManagement\\studentManagement\\fun.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F227F1B3-379A-4C0C-9B7E-8191140652B2}|Project1.vcxproj|solutionrelative:fun.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F227F1B3-379A-4C0C-9B7E-8191140652B2}|Project1.vcxproj|C:\\Users\\CC\\source\\repos\\student_management_system\\Project1\\teacherlib.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{F227F1B3-379A-4C0C-9B7E-8191140652B2}|Project1.vcxproj|D:\\GitCode\\otherPersonCode\\studentManagement\\studentManagement\\teacherlib.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F227F1B3-379A-4C0C-9B7E-8191140652B2}|Project1.vcxproj|solutionrelative:teacherlib.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F227F1B3-379A-4C0C-9B7E-8191140652B2}|Project1.vcxproj|C:\\Users\\CC\\source\\repos\\student_management_system\\Project1\\studentlib.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{F227F1B3-379A-4C0C-9B7E-8191140652B2}|Project1.vcxproj|D:\\GitCode\\otherPersonCode\\studentManagement\\studentManagement\\studentlib.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F227F1B3-379A-4C0C-9B7E-8191140652B2}|Project1.vcxproj|solutionrelative:studentlib.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -36,37 +36,35 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "studentlib.txt",
-              "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\student_management_system\\Project1\\studentlib.txt",
+              "DocumentMoniker": "D:\\GitCode\\otherPersonCode\\studentManagement\\studentManagement\\studentlib.txt",
               "RelativeDocumentMoniker": "studentlib.txt",
-              "ToolTip": "C:\\Users\\CC\\source\\repos\\student_management_system\\Project1\\studentlib.txt",
+              "ToolTip": "D:\\GitCode\\otherPersonCode\\studentManagement\\studentManagement\\studentlib.txt",
               "RelativeToolTip": "studentlib.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2026-05-24T12:14:41.875Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "teacherlib.txt",
-              "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\student_management_system\\Project1\\teacherlib.txt",
+              "DocumentMoniker": "D:\\GitCode\\otherPersonCode\\studentManagement\\studentManagement\\teacherlib.txt",
               "RelativeDocumentMoniker": "teacherlib.txt",
-              "ToolTip": "C:\\Users\\CC\\source\\repos\\student_management_system\\Project1\\teacherlib.txt",
+              "ToolTip": "D:\\GitCode\\otherPersonCode\\studentManagement\\studentManagement\\teacherlib.txt",
               "RelativeToolTip": "teacherlib.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2026-05-24T12:14:42.934Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "fun.c",
-              "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\student_management_system\\Project1\\fun.c",
+              "DocumentMoniker": "D:\\GitCode\\otherPersonCode\\studentManagement\\studentManagement\\fun.c",
               "RelativeDocumentMoniker": "fun.c",
-              "ToolTip": "C:\\Users\\CC\\source\\repos\\student_management_system\\Project1\\fun.c",
+              "ToolTip": "D:\\GitCode\\otherPersonCode\\studentManagement\\studentManagement\\fun.c",
               "RelativeToolTip": "fun.c",
               "ViewState": "AgIAACACAAAAAAAAAAAWwCkCAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -86,11 +84,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "myheader.h",
-              "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\student_management_system\\Project1\\myheader.h",
+              "DocumentMoniker": "D:\\GitCode\\otherPersonCode\\studentManagement\\studentManagement\\myheader.h",
               "RelativeDocumentMoniker": "myheader.h",
-              "ToolTip": "C:\\Users\\CC\\source\\repos\\student_management_system\\Project1\\myheader.h",
+              "ToolTip": "D:\\GitCode\\otherPersonCode\\studentManagement\\studentManagement\\myheader.h",
               "RelativeToolTip": "myheader.h",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGsAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-05-24T12:09:58.111Z",
               "EditorCaption": ""
@@ -99,11 +97,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\student_management_system\\Project1\\main.c",
+              "DocumentMoniker": "D:\\GitCode\\otherPersonCode\\studentManagement\\studentManagement\\main.c",
               "RelativeDocumentMoniker": "main.c",
-              "ToolTip": "C:\\Users\\CC\\source\\repos\\student_management_system\\Project1\\main.c",
+              "ToolTip": "D:\\GitCode\\otherPersonCode\\studentManagement\\studentManagement\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-05-24T12:09:40.239Z",
               "EditorCaption": ""

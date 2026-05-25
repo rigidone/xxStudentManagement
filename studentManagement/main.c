@@ -3,9 +3,6 @@
 int selectFun = 0;
 int main()
 {
-
-	printf("你好!!!\n");
-	return 0;
 	int id = 0, idt = -1000,permiss=-1;
 	char str[100];
 	headList headlist = headListCreate();
